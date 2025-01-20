@@ -1,0 +1,2 @@
+# ModeloPrecificacao_AirbnbRio
+ 
